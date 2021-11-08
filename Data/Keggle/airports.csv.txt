@@ -1,0 +1,3 @@
+Placeholder for the „airports.csv“ file from Kaggle found here: 
+https://www.kaggle.com/usdot/flight-delays
+Download the file and replace this placeholder!

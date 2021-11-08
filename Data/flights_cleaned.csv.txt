@@ -1,0 +1,2 @@
+Placeholder for „flights_cleaned.csv“ due to file-size constraints.
+Create your own file using the raw data from Kaggle and the script found in the folder 00_Cleaning.

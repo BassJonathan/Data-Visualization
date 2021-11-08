@@ -1,0 +1,18 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+pandas = "*"
+plotly = "*"
+matplotlib = "*"
+pandas-profiling = {file = "https://github.com/pandas-profiling/pandas-profiling/archive/master.zip"}
+squarify = "*"
+modin = "*"
+dash = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.7"
